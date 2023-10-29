@@ -27,7 +27,7 @@ Leverage parallel processing and distributed computing resources for faster mode
 
 When deploying the model at scale, utilize containerization with Docker and orchestration with Kubernetes to ensure consistent and scalable deployment across multiple servers or cloud instances.
 
-### CI/CD Integration
+### 5. CI/CD Integration
 
 Implement automated pipelines for data preprocessing, model training, and deployment. This facilitates continuous updates, ensuring the model remains current with new data and insights, and is ready for large-scale real-world applications.
 
